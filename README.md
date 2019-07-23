@@ -1,2 +1,2 @@
 # Project-Manger
-- Project-Manger is GUI Program that help you to make your project  then edit it inside project manger.
+- Project-Manger is GUI IDE Program that help you to manage your projects.
